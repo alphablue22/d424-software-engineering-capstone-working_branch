@@ -36,12 +36,3 @@ What I Learned
 
 Status
 Completed as the final capstone project for a software engineering degree.
-
-⭐ Next Step
-If you want, I can:
-- Insert these READMEs directly into your resume page
-- Help you upload each project to GitHub
-- Write a GitHub profile README
-- Add these projects to your resume in a polished “Projects” section
-- Tailor everything for the Twitch SWE role
-Just tell me what you want to do next.
