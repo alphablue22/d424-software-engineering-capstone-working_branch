@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/excursionsave"
+        android:title="Save Excursion"
+        android:icon="@drawable/baseline_save_24"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/excursiondelete"
+        android:title="Delete Excursion"
+        android:icon="@drawable/baseline_delete_24"
+        android:showAsAction="ifRoom" />
+</menu>
